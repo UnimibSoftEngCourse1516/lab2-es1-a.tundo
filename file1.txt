@@ -3,3 +3,5 @@ File1
 first edit
 
 second edit after clone
+
+third edit
