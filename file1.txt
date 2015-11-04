@@ -4,4 +4,4 @@ first edit
 
 second edit after clone
 
-edit in third-doc branch
+edit-resolve-conflict
